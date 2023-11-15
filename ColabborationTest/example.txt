@@ -1,0 +1,3 @@
+def mean(a,b)
+"""calculating the mean of two values"""
+return (a+b)/2
